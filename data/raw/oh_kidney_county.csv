@@ -1,0 +1,91 @@
+County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000",Average Annual Count,Recent Trend,Recent 5-Year Trend ([trend note]) in Incidence Rates
+Ohio(6),39000,N/A,18,2648,stable,1.1 
+US (SEER+NPCR)(1),0,N/A,17.3 ,67373,falling,-0.7 
+Hardin County(6),39065,Rural,31.2 ,11,rising,7.0 
+Harrison County(6),39067,Rural,29.6 ,6,*,*
+Jackson County(6),39079,Rural,28.7 ,11,stable,3.0 
+Brown County(6),39015,Urban,28,16,stable,2.3 
+Meigs County(6),39105,Rural,27.4 ,9,stable,2.1 
+Jefferson County(6),39081,Urban,26.4 ,24,falling,-18.3 
+Lawrence County(6),39087,Urban,25.3 ,20,stable,1.8 
+Pike County(6),39131,Rural,24.7 ,9,rising,4.3 
+Washington County(6),39167,Rural,24.6 ,19,stable,2.0 
+Scioto County(6),39145,Rural,24.6 ,23,stable,2.7 
+Pickaway County(6),39129,Urban,23.7 ,18,rising,2.1 
+Highland County(6),39071,Rural,23.3 ,13,stable,-15.9 
+Ross County(6),39141,Rural,23.3 ,23,stable,1.7 
+Shelby County(6),39149,Rural,23.2 ,14,stable,1.0 
+Athens County(6),39009,Rural,22.8 ,14,stable,2.9 
+Hocking County(6),39073,Urban,22.5 ,9,stable,3.4 
+Champaign County(6),39021,Rural,22.5 ,11,stable,2.0 
+Morgan County(6),39115,Rural,22.2 ,4,*,*
+Huron County(6),39077,Rural,22.1 ,16,stable,3.0 
+Muskingum County(6),39119,Rural,21.8 ,23,stable,1.6 
+Guernsey County(6),39059,Rural,21.8 ,11,stable,1.7 
+Defiance County(6),39039,Rural,21.6 ,10,stable,3.4 
+Miami County(6),39109,Urban,21.6 ,30,rising,3.3 
+Auglaize County(6),39011,Rural,21.2 ,14,rising,5.1 
+Monroe County(6),39111,Rural,21.1 ,4,stable,3.2 
+Mercer County(6),39107,Rural,21.1 ,11,stable,2.5 
+Butler County(6),39017,Urban,21,94,rising,1.7 
+Gallia County(6),39053,Rural,20.9 ,8,stable,4.3 
+Crawford County(6),39033,Rural,20.7 ,12,stable,2.1 
+Clark County(6),39023,Urban,20.5 ,36,rising,2.7 
+Adams County(6),39001,Rural,20.5 ,7,stable,2.9 
+Putnam County(6),39137,Rural,20.4 ,9,*,*
+Clermont County(6),39025,Urban,20.2 ,53,stable,1.5 
+Clinton County(6),39027,Rural,20.1 ,11,*,*
+Montgomery County(6),39113,Urban,20,134,rising,2.1 
+Madison County(6),39097,Urban,19.8 ,11,stable,-12.7 
+Morrow County(6),39117,Urban,19.7 ,9,stable,2.7 
+Lucas County(6),39095,Urban,19.6 ,104,stable,1.5 
+Richland County(6),39139,Urban,19.5 ,32,rising,3.7 
+Seneca County(6),39147,Rural,19.4 ,13,stable,1.2 
+Lorain County(6),39093,Urban,19.3 ,79,rising,1.9 
+Vinton County(6),39163,Rural,19.3 ,3,*,*
+Marion County(6),39101,Rural,19.2 ,16,stable,1.5 
+Allen County(6),39003,Urban,19.2 ,25,stable,0.2 
+Wyandot County(6),39175,Rural,18.8 ,6,stable,-2.9 
+Hamilton County(6),39061,Urban,18.6 ,179,rising,1.2 
+Henry County(6),39069,Rural,18.6 ,7,stable,1.9 
+Perry County(6),39127,Urban,18.3 ,8,stable,-2.9 
+Hancock County(6),39063,Rural,18.2 ,17,stable,2.3 
+Preble County(6),39135,Rural,18.2 ,10,stable,0.9 
+Logan County(6),39091,Rural,18.1 ,11,stable,0.4 
+Portage County(6),39133,Urban,17.9 ,36,stable,1.4 
+Paulding County(6),39125,Rural,17.8 ,5,stable,0.2 
+Darke County(6),39037,Rural,17.8 ,13,stable,1.4 
+Fairfield County(6),39045,Urban,17.7 ,35,stable,-2.4 
+Medina County(6),39103,Urban,17.7 ,44,rising,2.2 
+Wood County(6),39173,Urban,17.6 ,25,stable,0.4 
+Warren County(6),39165,Urban,17.6 ,49,stable,1.4 
+Fulton County(6),39051,Urban,17.5 ,10,stable,1.2 
+Carroll County(6),39019,Urban,17.5 ,7,stable,1.1 
+Union County(6),39159,Urban,17.5 ,12,stable,0.8 
+Sandusky County(6),39143,Rural,17.4 ,14,stable,1.3 
+Ashland County(6),39005,Rural,17.3 ,11,stable,2.2 
+Franklin County(6),39049,Urban,17.1 ,224,stable,0.6 
+Coshocton County(6),39031,Rural,17,8,rising,3.2 
+Lake County(6),39085,Urban,16.7 ,54,stable,1.3 
+Licking County(6),39089,Urban,16.6 ,36,stable,-2.1 
+Van Wert County(6),39161,Rural,16.5 ,6,stable,2.5 
+Stark County(6),39151,Urban,16.3 ,82,stable,-0.2 
+Mahoning County(6),39099,Urban,16.2 ,50,stable,1.7 
+Summit County(6),39153,Urban,16.1 ,113,stable,0.4 
+Cuyahoga County(6),39035,Urban,16.1 ,261,stable,0.9 
+Delaware County(6),39041,Urban,15.9 ,37,stable,-0.7 
+Greene County(6),39057,Urban,15.9 ,34,stable,0.4 
+Ottawa County(6),39123,Urban,15.8 ,10,stable,19.3 
+Erie County(6),39043,Urban,15.7 ,18,stable,2.2 
+Tuscarawas County(6),39157,Rural,15.6 ,19,stable,0.4 
+Columbiana County(6),39029,Rural,15.5 ,24,stable,1.8 
+Fayette County(6),39047,Rural,15.5 ,5,stable,1.8 
+Wayne County(6),39169,Rural,15.3 ,21,stable,1.9 
+Belmont County(6),39013,Urban,15.1 ,15,stable,0.2 
+Ashtabula County(6),39007,Urban,14.7 ,20,falling,-2.1 
+Knox County(6),39083,Rural,14.4 ,12,stable,0.2 
+Trumbull County(6),39155,Urban,14.3 ,41,stable,0.1 
+Holmes County(6),39075,Rural,14,6,stable,0.5 
+Geauga County(6),39055,Urban,13.2 ,19,stable,-1.5 
+Williams County(6),39171,Rural,11.8 ,6,stable,-2.7 
+Noble County(6),39121,Rural,* ,3 or fewer,*,*

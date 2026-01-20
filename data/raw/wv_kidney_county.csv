@@ -1,0 +1,58 @@
+County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000",Average Annual Count,Recent Trend,Recent 5-Year Trend ([trend note]) in Incidence Rates
+West Virginia(6),54000,N/A,21.5 ,522,rising,2.3 
+US (SEER+NPCR)(1),0,N/A,17.3 ,67373,falling,-0.7 
+Pleasants County(6),54073,Rural,38.2 ,4,*,*
+Grant County(6),54023,Rural,36.5 ,6,*,*
+Logan County(6),54045,Rural,36.1 ,15,rising,5.2 
+Lincoln County(6),54043,Rural,31.8 ,9,rising,4.5 
+Boone County(6),54005,Urban,29.1 ,9,stable,3.8 
+Clay County(6),54015,Urban,28.2 ,3,*,*
+Ritchie County(6),54085,Rural,28,4,*,*
+Lewis County(6),54041,Rural,27.2 ,6,stable,0.7 
+Braxton County(6),54007,Rural,27.1 ,5,*,*
+Jackson County(6),54035,Rural,27,11,stable,2.7 
+Greenbrier County(6),54025,Rural,26.8 ,12,rising,3.7 
+Brooke County(6),54009,Urban,25,8,stable,1.9 
+Putnam County(6),54079,Urban,24.5 ,18,stable,1.6 
+Mingo County(6),54059,Rural,23.5 ,8,stable,1.4 
+Harrison County(6),54033,Rural,23.5 ,22,stable,1.5 
+Wayne County(6),54099,Urban,23.4 ,13,stable,2.7 
+Kanawha County(6),54039,Urban,23.3 ,57,rising,2.7 
+Roane County(6),54087,Rural,23.3 ,5,stable,1.1 
+Mason County(6),54053,Rural,23.2 ,8,rising,3.9 
+Preston County(6),54077,Urban,22.6 ,10,falling,-31.6 
+Randolph County(6),54083,Rural,22.4 ,9,stable,4.7 
+Wood County(6),54107,Urban,22.1 ,26,rising,2.1 
+Marion County(6),54049,Rural,22,15,stable,0.8 
+Cabell County(6),54011,Urban,21.8 ,27,stable,3.1 
+Mineral County(6),54057,Rural,21.6 ,8,stable,1.6 
+Upshur County(6),54097,Rural,21.5 ,6,stable,3.6 
+Taylor County(6),54091,Rural,21.4 ,5,stable,2.0 
+Marshall County(6),54051,Urban,20.7 ,8,stable,-6.8 
+Raleigh County(6),54081,Urban,20,20,stable,2.4 
+Morgan County(6),54065,Urban,19.7 ,5,*,*
+McDowell County(6),54047,Rural,19.4 ,6,stable,0.8 
+Berkeley County(6),54003,Urban,19.3 ,27,stable,0.0 
+Wyoming County(6),54109,Rural,19.2 ,6,stable,3.8 
+Fayette County(6),54019,Urban,18.4 ,12,stable,3.3 
+Ohio County(6),54069,Urban,18.3 ,11,stable,-0.5 
+Jefferson County(6),54037,Urban,18.2 ,13,stable,-0.2 
+Mercer County(6),54055,Rural,17.8 ,14,stable,2.2 
+Hampshire County(6),54027,Urban,17.2 ,6,stable,2.8 
+Barbour County(6),54001,Rural,17,3,*,*
+Monongalia County(6),54061,Urban,16.7 ,18,stable,1.8 
+Wetzel County(6),54103,Rural,16.5 ,4,stable,-2.5 
+Summers County(6),54089,Rural,16.4 ,3,*,*
+Hancock County(6),54029,Urban,15.9 ,7,stable,0.0 
+Nicholas County(6),54067,Rural,15.8 ,6,stable,1.6 
+Calhoun County(6),54013,Rural,* ,3 or fewer,*,*
+Doddridge County(6),54017,Rural,* ,3 or fewer,*,*
+Gilmer County(6),54021,Rural,* ,3 or fewer,*,*
+Hardy County(6),54031,Rural,* ,3 or fewer,*,*
+Monroe County(6),54063,Rural,* ,3 or fewer,*,*
+Pendleton County(6),54071,Rural,* ,3 or fewer,*,*
+Pocahontas County(6),54075,Rural,* ,3 or fewer,*,*
+Tucker County(6),54093,Rural,* ,3 or fewer,*,*
+Tyler County(6),54095,Rural,* ,3 or fewer,*,*
+Webster County(6),54101,Rural,* ,3 or fewer,*,*
+Wirt County(6),54105,Urban,* ,3 or fewer,*,*
