@@ -1,1 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# GIS data (local only)
 data/Shapefile/
+
+# Python cache
+__pycache__/
+*.pyc
